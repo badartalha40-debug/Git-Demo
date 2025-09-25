@@ -1,2 +1,4 @@
 # Git-Demo
-This is my first repo
+This is my first repository.
+<br>
+Authur - Talha - Coder
